@@ -153,12 +153,12 @@ footer .footer-bottom .col-sm-4 ul li:hover,
 .sing_prac_caption { 
 	background: rgba(5, 171, 224, 0.75); 
 	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSI5JSIgc3RvcC1jb2xvcj0iIzA1YWJlMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijc2JSIgc3RvcC1jb2xvcj0iIzA2OWJlNSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
-	background: -moz-linear-gradient(top,  rgba(5,171,224, 0.75) 9%, rgba(6,155,229,0.75) 76%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(9%,rgba(5,171,224,0.75)), color-stop(76%,rgba(6,155,229, 0.75))); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  rgba(5,171,224,0.75) 9%,rgba(6,155,229, 0.75) 76%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  rgba(5,171,224, 0.75) 9%,rgba(6,155,229, 0.75) 76%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  rgba(5,171,224, 0.75) 9%,rgba(6,155,229, 0.75) 76%); /* IE10+ */
-	background: linear-gradient(to bottom,  rgba(5,171,224, 0.75) 9%,rgba(6,155,229, 0.75) 76%); /* W3C */
+	background: -moz-linear-gradient(top,  rgba(42, 24, 206, 0.75) 9%, rgba(124, 24, 206, 0.75) 76%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(9%,rgba(124, 24, 206, 0.75)), color-stop(76%,rgba(124, 24, 206, 0.75))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(42, 24, 206, 0.75) 9%,rgba(124, 24, 206, 0.75) 76%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(42, 24, 206, 0.75) 9%,rgba(124, 24, 206, 0.75) 76%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(42, 24, 206, 0.75) 9%,rgba(124, 24, 206, 0.75) 76%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(42, 24, 206, 0.75) 9%,rgba(124, 24, 206, 0.75) 76%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#05abe0', endColorstr='#069be5',GradientType=0 ); /* IE6-8 */
 }
 
@@ -266,12 +266,12 @@ section.free-case-evulution.faq-page-form .form-control:hover,
 .practice-text-area,
 .ach-img:before,
 .business-hover figure.effect-home-two figcaption::before{
-    background: rgba(5, 171, 224, 0.88);
+    background: rgba(36, 172, 218, 0.88);
 }
 
 .contact_us_address,
 .subscribe-box-form:before {
-    background-color: rgba(5, 171, 224, 0.75);
+    background-color: rgba(36, 172, 218, 0.88);
 }
 .blog-accordion .accordion-deafult .panel-heading:hover {
     border-left: 4px solid #05e03c !important;
