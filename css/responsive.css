@@ -36,7 +36,7 @@ ul.nav.navbar-nav li > a {
   padding: 60px 0;
 }
 .section_heading p { 
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 .latest-news-text { 
   top: -12%;
@@ -207,7 +207,7 @@ section.home-two-students-area .col-md-6:first-child {
   padding: 45px 0;
 }
 .section_heading p {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   width: 100%;
   font-size: 15px;
   }
@@ -515,7 +515,7 @@ section.history-area.section-padding .col-xs-12:last-child {
     padding: 60px 0;
 }
 .section-padding {
-  padding: 45px 0;
+  padding: 35px 0;
 }
 .section_heading h1 {
   font-size: 25px;

@@ -2,10 +2,12 @@
 .section_heading{
     text-align: center;
     padding: 0 30px;
+    border: 1px solid #ececec;
+    border-radius: 2px;
 }
 .section_heading h1,
 .section_heading h2{
-    position: relative;
+  position: relative;
 	font-size:30px;
 	text-transform:uppercase;
 }
@@ -25,7 +27,7 @@ hr.hr-heading-bottom:last-child {
 .section_heading p{ 
   width: 45%;
   margin: auto;
-  margin-bottom: 75px; 
+  margin-bottom: 25px; 
   letter-spacing: 0.4px;
   text-align: center;
 }
